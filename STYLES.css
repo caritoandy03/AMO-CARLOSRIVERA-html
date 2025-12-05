@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container-fluid {
+	background: #FFC0CB;
+	color:black;
+	padding: 20px;
+	text-align: center;
+	height: 150px;
+	}
+
+.col-md-4{
+	border: solid #eeee;
+	padding:20px;
+	border-radius:10px;
+	background: #FFF0F5;
+	
+}
